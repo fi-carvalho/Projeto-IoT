@@ -1,4 +1,4 @@
-/*
+/*FIRMWARE DO ARDUINO
   Leitura de dados analógicos e inserção de dados via serial
 */
 const int pot = 0;  // porta do potenciometro que vai transmitir os dados
