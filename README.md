@@ -1,3 +1,3 @@
 # Projeto de IoT
 
-Construiremos um projeto, onde o estabeleceremos a comunicação entre o Arduino e uma interface web, utilizando a linguagem de programação ***JavaScript***, bem como o framework NodeJS.
+Pprojeto, onde estabelecemos a comunicação entre uma placa Arduino UNO R3 e uma aplicação web, utilizando a linguagem de programação ***JavaScript***, bem como o framework NodeJS e algumas de suas bibliotecas.
