@@ -24,7 +24,7 @@ var myChart = new Chart(ctx, {
             label: 'Serial',
             data: [],                               // (**)
             backgroundColor: [
-                'rgba(255, 206, 86, 0.2)'
+                'rgba(255, 216, 86, 0.2)'
             ],
             borderColor: [
                 'rgba(255, 159, 64, 1)'
